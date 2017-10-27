@@ -1,0 +1,7 @@
+bower_components
+node_modules/
+pid/
+log/
+.DS_Store
+.htaccess
+dump.rdb
